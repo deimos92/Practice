@@ -1,0 +1,15 @@
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\bin\Debug\net7.0\Console Labyrinth.exe
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\bin\Debug\net7.0\Console Labyrinth.deps.json
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\bin\Debug\net7.0\Console Labyrinth.runtimeconfig.json
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\bin\Debug\net7.0\Console Labyrinth.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\bin\Debug\net7.0\Console Labyrinth.pdb
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.csproj.AssemblyReference.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.AssemblyInfoInputs.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.AssemblyInfo.cs
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\refint\Console Labyrinth.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.pdb
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\Console Labyrinth.genruntimeconfig.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Labyrinth\obj\Debug\net7.0\ref\Console Labyrinth.dll

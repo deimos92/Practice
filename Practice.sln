@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Labyrinth", "Console Labyrinth\Console Labyrinth.csproj", "{CADE627F-2D74-4433-A778-4FA6FF91C525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Sea Battle", "Console Sea Battle\Console Sea Battle.csproj", "{CCD9EFA1-8F2C-4844-919C-36040789DE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADE627F-2D74-4433-A778-4FA6FF91C525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADE627F-2D74-4433-A778-4FA6FF91C525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADE627F-2D74-4433-A778-4FA6FF91C525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADE627F-2D74-4433-A778-4FA6FF91C525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD9EFA1-8F2C-4844-919C-36040789DE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9EFA1-8F2C-4844-919C-36040789DE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9EFA1-8F2C-4844-919C-36040789DE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9EFA1-8F2C-4844-919C-36040789DE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE599B4-C481-4810-B9AB-27EA4B3994DC}
+	EndGlobalSection
+EndGlobal

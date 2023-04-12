@@ -1,0 +1,15 @@
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\bin\Debug\net6.0\Console Sea Battle.exe
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\bin\Debug\net6.0\Console Sea Battle.deps.json
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\bin\Debug\net6.0\Console Sea Battle.runtimeconfig.json
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\bin\Debug\net6.0\Console Sea Battle.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\bin\Debug\net6.0\Console Sea Battle.pdb
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.csproj.AssemblyReference.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.AssemblyInfoInputs.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.AssemblyInfo.cs
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.csproj.CoreCompileInputs.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\refint\Console Sea Battle.dll
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.pdb
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\Console Sea Battle.genruntimeconfig.cache
+C:\Users\MChief1337\Desktop\GoITeen\Practice\Console Sea Battle\obj\Debug\net6.0\ref\Console Sea Battle.dll
